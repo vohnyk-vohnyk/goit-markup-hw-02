@@ -80,7 +80,7 @@ body {
     color: #404bbf;
 }
 
-.btn_order {
+.btn_buy_service {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -92,11 +92,11 @@ body {
 
 }
 
-.btn_order:hover {
+.btn_buy_service:hover {
     background-color: #404BBF;
 }
 
-.btn_order:focus {
+.btn_buy_service:focus {
     background-color: #404BBF;
 }
 
