@@ -127,7 +127,7 @@ button:hover {
     background-color: #F4F4FD;
 }
 
-.first_article_about {
+.list_articles_about {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -138,7 +138,7 @@ button:hover {
     background-color: #FFF;
 }
 
-.about_title_list {
+.about_titles_list {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
