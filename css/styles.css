@@ -9,7 +9,7 @@ a {
 
 body {
     background-color: #FFF;
-    font-family: "Roboto", "Verdana", "Raleway", sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455
 
     
@@ -35,24 +35,56 @@ color: #404BBF;
     text-decoration: underline;
 }
 
-.logo-light {
-    color: #4D5AE5;
-    width: 44px;
-    font-size: 18px;
+.logo {
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
-    line-height: 116.667%;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
-
+    color: #4d5ae5;
 }
+
 
 .logo-dark {
     color: #2E2F42;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 116.667%;
-    text-transform: uppercase;
+ 
 }
 
+.main {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.main:hover {
+    color: #404bbf
+}
+
+.main:focus {
+    color: #404bbf
+}
+
+.contacts {
+    font-style: normal;
+}
+
+.communication {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.communication:hover {
+    color: #404bbf;
+}
+
+.communication:focus {
+    color: #404bbf;
+}
 button {
     background: #4D5AE5;
     cursor: pointer;
@@ -63,7 +95,7 @@ button:hover {
 }
 
 .promo {
-    background-color: #2E2F42;
+    background-color: #2e2f42;
    
 }
 
