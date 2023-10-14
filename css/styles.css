@@ -76,6 +76,26 @@ body {
     color: #404bbf;
 }
 
+.button_order {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor:pointer;
+
+
+}
+
+.button_order:hover {
+    background-color: #404BBF;
+}
+
+.button_order:focus {
+    background-color: #404BBF;
+}
+
 button {
     background: #4D5AE5;
     cursor: pointer;
@@ -87,7 +107,6 @@ button:hover {
 
 .promo {
     background-color: #2e2f42;
-
 }
 
 .promo-text {
@@ -97,6 +116,7 @@ button:hover {
     font-size: 56px;
     font-weight: 700;
     line-height: 107.143%;
+    letter-spacing: 0.02em;
 }
 
 .about {
