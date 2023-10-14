@@ -8,13 +8,10 @@ a {
 }
 
 body {
-    font-family:"roboto";
     background-color: #FFF;
-}
-
-body p {
-    font-family: Raleway;
-    color: #434455;
+    font-family: 'Roboto', 'Verdana', 'Raleway', sans-serif;
+    color: #434455
+    
 }
 
 body h3 {
